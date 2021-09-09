@@ -1,0 +1,8 @@
+﻿  SeqList.c
+D:\桌面\C&C++\C\SequenceList\SequenceList\SeqList.c(37,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\桌面\C&C++\C\SequenceList\SequenceList\SeqList.c(69,16): warning C4018: “<”: 有符号/无符号不匹配
+D:\桌面\C&C++\C\SequenceList\SequenceList\SeqList.c(84,23): warning C4018: “>”: 有符号/无符号不匹配
+D:\桌面\C&C++\C\SequenceList\SequenceList\SeqList.c(96,18): warning C4018: “<”: 有符号/无符号不匹配
+  test.c
+  正在生成代码...
+  SequenceList.vcxproj -> D:\桌面\C&C++\C\SequenceList\Debug\SequenceList.exe
