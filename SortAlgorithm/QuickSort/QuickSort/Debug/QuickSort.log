@@ -1,0 +1,5 @@
+﻿  QuickSort.c
+  test.c
+D:\桌面\C&C++\数据结构\排序算法\QuickSort\QuickSort\test.c(20,28): warning C4020: “quickSort_iterate”: 实参太多
+  正在生成代码...
+  QuickSort.vcxproj -> D:\桌面\C&C++\数据结构\排序算法\QuickSort\Debug\QuickSort.exe
